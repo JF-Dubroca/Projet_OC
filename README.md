@@ -1,0 +1,70 @@
+# 🧭 README – Projets OpenClassrooms
+
+## 📌 1. Présentation générale du dépôt
+
+  Ce dépôt contient tous les projets de la formation OpenClassrooms de data analyst de 2025
+
+
+## 🗂️ 2. Structure du dépôt
+
+  Un dépôt global contient les 13 projets, chacun dans un dépôt spécifique. 
+
+
+## 🛠️ 3. Installation et configuration
+
+### 3.1. Cloner le dépôt
+
+
+### 3.2. Créer et activer un environnement virtuel
+
+
+### 3.3. Installer les dépendances
+
+
+## 🧪 4. Liste des projets
+
+   - Prenez en main votre formation
+   - Analyse des ventes d'un e-commerce 
+   - Créer et uliliser une base de données SQL 
+   - Analyse de santé publique 
+   - Requêter une base de données immmobiière  
+   - Optimiser la gestion des données d'une boutique  
+   - Crée un tableau de bord dynamique avec Power BI pour suivre l'avancement de projets 
+   - Analyser des indicateurs de l'égalité femmes - homme avec KNIME en respect du RGPD 
+   - Analyser les ventes d'une librairie  
+   - Faire une étude sur l'eau potable 
+   - Produire une étude de marché
+   - Détecter des faux billets
+   - Creer un porfolio professionnel 
+
+
+## 📘 5. Contenu typique d’un projet
+  Chaque projet contient la liste des livrables demandés
+     - Présentation au format keynote
+     - Présentation au format .pdf
+     - Le ou les fichiers .csv ou .xls si demandés
+     - Le ou les notebook Python pour les projets Python
+     - Le ou les fichiers .pbix pour les projets Power BI
+     - Le fichier .knwf pour le projet KNIME
+     
+
+### 5.1. Objectifs pédagogiques
+
+
+### 5.2. Technologies utilisées
+
+
+### 5.3. Structure interne du dossier projet
+
+
+### 5.4. Notes importantes / prérequis
+
+
+## 📊 6. Ressources complémentaires
+
+
+## 👤 7. Auteur
+
+
+## 📄 8. Licence
+
