@@ -29,4 +29,4 @@ Analyse des ventes d'un e-commerce
 Excel
 
 1. Cloner le dépôt :  
-   git clone git clone https://github.com/JF-Dubroca/Projet_OC.git
+   git clone git clone https://github.com/JF-Dubroca/Projet_OC.git/2. Faire_une_analyse_de_vente_pour_un_e_commerce_Dubroca_Jean-François
