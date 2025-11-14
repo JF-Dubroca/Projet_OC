@@ -1,7 +1,7 @@
 # 🚀 Requêtez une base de données avec SQL
 
 ![Langage](https://img.shields.io/badge/Language-SQLite-green)
-![Statut](https://img.shields.io/badge/Statut-Validé-yellow)
+![Statut](https://img.shields.io/badge/Statut-Validé-orange)
 ![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-blueviolet)
 
 
@@ -25,7 +25,7 @@
 ---
 
 ## ⚙️ Installation / Prérequis
-- SQl
+- SQL
 - SQLite
 - SQlite studio
 
