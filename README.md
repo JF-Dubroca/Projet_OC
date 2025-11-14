@@ -29,19 +29,19 @@ Dans le terminal dans le dossier dans lequel vous souhaitez récupérer le dép�
 
 ## 🧪 4. Liste des projets
 
-   - Prenez en main votre formation
-   - Analyse des ventes d'un e-commerce 
-   - Créer et uliliser une base de données SQL 
-   - Analyse de santé publique 
-   - Requêter une base de données immmobiière  
-   - Optimiser la gestion des données d'une boutique  
-   - Crée un tableau de bord dynamique avec Power BI pour suivre l'avancement de projets 
-   - Analyser des indicateurs de l'égalité femmes - homme avec KNIME en respect du RGPD 
-   - Analyser les ventes d'une librairie  
-   - Faire une étude sur l'eau potable 
-   - Produire une étude de marché
-   - Détecter des faux billets
-   - Creer un porfolio professionnel 
+- Prenez en main votre formation
+- Analyse des ventes d'un e-commerce 
+- Créer et uliliser une base de données SQL 
+- Analyse de santé publique 
+- Requêter une base de données immmobiière  
+- Optimiser la gestion des données d'une boutique  
+- Crée un tableau de bord dynamique avec Power BI pour suivre l'avancement de projets 
+- Analyser des indicateurs de l'égalité femmes - homme avec KNIME en respect du RGPD 
+- Analyser les ventes d'une librairie  
+- Faire une étude sur l'eau potable 
+- Produire une étude de marché
+- Détecter des faux billets
+- Creer un porfolio professionnel 
 
 
 ## 📘 5. Contenu typique d’un projet
