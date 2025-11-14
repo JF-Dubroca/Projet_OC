@@ -1,29 +1,33 @@
-# 🚀 {{TITRE_DU_PROJET}}
+# 🚀 Faire une analyse de vente pour un e-commerce
 
-![Langage](https://img.shields.io/badge/Language-Python-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-![Statut](https://img.shields.io/badge/Statut-En_cours-yellow)
-![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-Projet-blueviolet)
-![Licence MIT](https://img.shields.io/badge/Licence-MIT-lightgrey)
+![Langage](https://img.shields.io/badge/Language-Excel-green)
+![Statut](https://img.shields.io/badge/Statut-Validé-yellow)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-blueviolet)
+
 
 ---
 
 ## 🎯 Objectif du projet
 <!-- Décris ici le but du projet -->
-{{DESCRIPTION_PROJET}}
+Analyse des ventes d'un e-commerce
+- Présentation des chiffres clés avec des grapahiques (proportion des ventes par catégories, chiffre d'affaire, temps passé sur le site... )
+- Rapport des données spécifiques des clients affiliés
+- Proposition d'axe stratégique
 
 ---
 
 ## 🧠 Compétences développées
 <!-- Liste les compétences que tu as acquises -->
-- {{COMPETENCE_1}}
-- {{COMPETENCE_2}}
-- {{COMPETENCE_3}}
+- Excel 
+   - Graphiques
+   - Calculs
+   - Tableaux croisés dynamiques
 
 ---
 
 ## ⚙️ Installation / Prérequis
-<!-- Explique comment installer et exécuter le projet -->
+Excel
+
 1. Cloner le dépôt :  
    ```bash
    git clone https://github.com/ton_nom_utilisateur/{{TITRE_DU_PROJET}}.git
