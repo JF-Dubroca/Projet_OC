@@ -14,6 +14,7 @@ Un dépôt global contient les 13 projets, chacun dans un dépôt spécifique.
 
 ### 3.1. Cloner le dépôt
 Dans le terminal dans le dossier dans lequel vous souhaitez récupérer le dépôt
+
 bash  `git clone https://github.com/JF-Dubroca/Projet_OC.git`
 
 
