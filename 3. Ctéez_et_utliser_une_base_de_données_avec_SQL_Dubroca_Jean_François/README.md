@@ -1,6 +1,6 @@
 # 🚀 Requêtez une base de données avec SQL
 
-![Langage](https://img.shields.io/badge/Language-SQL-SQLite-green)
+![Langage](https://img.shields.io/badge/Language-SQLite-green)
 ![Statut](https://img.shields.io/badge/Statut-Validé-yellow)
 ![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-blueviolet)
 
