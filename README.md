@@ -13,12 +13,18 @@
 ## 🛠️ 3. Installation et configuration
 
 ### 3.1. Cloner le dépôt
+Dans le terminal dans le dossier dans lequel vous souhaitez récupérer le dépôt
+  git clone https://github.com/JF-Dubroca/Projet_OC.git
+  cd Projet_OC
+
 
 
 ### 3.2. Créer et activer un environnement virtuel
+  SO
 
 
 ### 3.3. Installer les dépendances
+  SO
 
 
 ## 🧪 4. Liste des projets
@@ -49,22 +55,42 @@
      
 
 ### 5.1. Objectifs pédagogiques
+  Acquérir les connaissances pour exercer le métier de data analyst
+    - Gain de temps, réduction des erreurs (automatisaiton de fichier Excel)
+    - Création et interogation de base de données (SQL)
+    - Pilotage d'activité grâce à des indicateurs (visualisation, tableau de bord)
+    - Analyse métier (top ventes, flop ventes, taux de conversion, taux d'attrition... )
+    - Segmentation, aide de choix stratégiques (ACP, clustering)
+    - Optimisation de stock
 
 
 ### 5.2. Technologies utilisées
+  - Python (Pandas, Numpy, Matplotlib, Sklearn...)
+  - SQL (SQLite, Postrge, PgAdmin)
+  - DAX
+  - Power Query
+  - KNIME
+  - Excel 
 
 
 ### 5.3. Structure interne du dossier projet
+  - Les différents projets
+  - Un fichier README.md
+  - Un fichier requirements.txt
 
 
 ### 5.4. Notes importantes / prérequis
+  SO
 
 
 ## 📊 6. Ressources complémentaires
+  SO
 
 
 ## 👤 7. Auteur
+jf Dubroca
 
 
 ## 📄 8. Licence
+  SO
 
