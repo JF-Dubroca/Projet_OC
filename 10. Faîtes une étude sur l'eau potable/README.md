@@ -10,7 +10,7 @@
 ## 🎯 Objectif du projet
 - Aider une entreprise à faire des choix de pays pour développer ou amlériorer des installations d'accès à l'eau potable et proposer son activité de conseil
 - Créer un blueprint
-- Respect de graphiques imposés
+- Respect de graphiques attendus
 
 ---
 
@@ -18,8 +18,8 @@
 - Approfondissement des connaissances en DAX
 - Approfondissement de la notion de contexte dans Power BI
 - Création d'un score
-- Optimisation des requêtes Power Query (gain de temps de traitement) 
-- Optimisation du schéma de données pour une bonne diffusion des mesures et des filtres
+- Optimisation des requêtes Power Query (temps de traitement) 
+- Optimisation du schéma relationnel pour une bonne diffusion des mesures et des filtres
 
 ---
 
