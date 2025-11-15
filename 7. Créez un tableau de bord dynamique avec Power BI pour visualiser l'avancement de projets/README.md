@@ -8,6 +8,10 @@
 ---
 
 ## 🎯 Objectif du projet
+- Pilotage de projet selon 3 critères par projets et par phases
+  - Livrables
+  - coûts
+  - Délais
 - Créer un stratégy canevas
 - Créer un mockup
 - Créer un tableau de bord
@@ -18,10 +22,11 @@
 ## 🧠 Compétences développées
 - Users stories
 - Choix des graphiques
-- Création et personalisation des graphiques
-- DAX (mesures, création de table calculées.....)
+- Création et personnalisation des graphiques
+- DAX (mesures, création de tables calculées.....)
 - Power Query (préparation des tables)
 - Règles RLS (gestion des rôles)
+- Optimmisation du schéma relationnel pour la diffusion des mesures et des filtres
 
 ---
 
