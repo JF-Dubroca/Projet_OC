@@ -8,6 +8,7 @@
 ---
 
 ## 🎯 Objectif du projet
+- Analyser les données de vente d'une boutique pour définir des axes stratégiques
 - Exploration et nettoyage de données
 - Analyse de différents indicateurs (prix de ventes, CA, stocks...)
 
@@ -15,7 +16,7 @@
 
 ## 🧠 Compétences développées
 - Librairies: Pandas, Numpy, plotly.express, skimpy
-- Transformation de données (ajustement des stocks, prix et stocks négatifs, suppression de liges et de colonnes... )
+- Transformation de données (ajustement des stocks, prix et stocks négatifs, suppression de lignes et de colonnes... )
 - Personnalisation de graphiques
 - Corrélation (Heatmaps)
 - Recommandations métier
