@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Objectif du projet
-- Mise en place d''une organisation
+- Mise en place d'une organisation
 - Établissement d'un planning
 - Découverte du métier de data analyst (soft skills, hard skills)
 
