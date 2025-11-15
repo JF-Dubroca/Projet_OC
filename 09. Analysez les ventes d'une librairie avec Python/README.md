@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Objectif du projet
-- Analyser des ventes pour dégager des recommandations
+- Analyser les ventes d'une librairie pour dégager des axes stratégiques
 - Tests statistiques (Chi2, Spearman)
 - Analyse métier
 
