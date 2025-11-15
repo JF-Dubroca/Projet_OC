@@ -9,15 +9,16 @@
 
 ## 🎯 Objectif du projet
 Analyse des ventes d'un e-commerce
-- Présentation des chiffres clés avec des grapahiques (proportion des ventes par catégories, chiffre d'affaire, temps passé sur le site... )
+- Présentation des chiffres clés avec des graphiques (proportion des ventes par catégories, chiffre d'affaire, temps passé sur le site... )
 - Rapport des données spécifiques des clients affiliés
-- Proposition d'axe stratégique
+- Proposition d'axes stratégiques
 
 ---
 
 ## 🧠 Compétences développées
 - Excel 
    - Graphiques
+   - Choix des graphiques
    - Calculs
    - Tableaux croisés dynamiques
 
