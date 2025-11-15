@@ -23,7 +23,7 @@
 ---
 
 ## ⚙️ Installation / Prérequis
-- Python 
+- Éditeur de code Python (Jupyter notebook)
 - Librairies: installer le fichier requirements.txt fourni dans le dépôt Projet OC
   - Créer un environnement virtuel dans le dossier
 
