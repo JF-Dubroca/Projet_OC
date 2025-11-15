@@ -1,4 +1,4 @@
-# 🚀 RAnalisez des indicateurs de l'égalité femmes/ hommes en respect du RGPD
+# 🚀 Analisez des indicateurs de l'égalité femmes/ hommes en respect du RGPD
 
 ![Langage](https://img.shields.io/badge/Language-KNIME-green)
 ![Statut](https://img.shields.io/badge/Statut-Validé-orange)
@@ -8,6 +8,7 @@
 ---
 
 ## 🎯 Objectif du projet
+- Calculer le score de l'égalité femmes/ hommes d'une entreprise
 - Découverte de KNIME
 - Créer un flux de traitement de la donnée
 - Approfondir les connaissances dans le RGPD
