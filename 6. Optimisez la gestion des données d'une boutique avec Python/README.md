@@ -23,15 +23,17 @@
 ---
 
 ## ⚙️ Installation / Prérequis
-Installer le fichier requirements.txt fourni dans le dossier Projets OC
-- Créer un environnement virtuel
-  -  bash` python -m venv .env `
- 
-- Activer l'environnement virtuel (MacOS)
-  - bash` source .env/bin/activate `
- 
-- Installer le fichier requirements.txt
-  - bash` pip install -r requirements.txt `
+- Éditeur de code Python (Jupyter Notebook)
+- Librairies: installer le fichier requirements.txt fourni dans le dépôt Projet OC
+  - Créer un environnement virtuel dans le dossier
+
+      bash` python -m venv .env `
+  - Activer l'environnement
+  
+      bash` source .env/bin/activate `
+  - Installer le fichier requirements.txt
+
+      bash` pip install -r requirements.txt 
 
 1. Cloner le dépôt :  
 git clone https://github.com/JF-Dubroca/Projet_OC.git
