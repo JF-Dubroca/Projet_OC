@@ -19,7 +19,7 @@
 - Recherches de données pertinentes en gardant à l'esprit qu'il sera nécessaire de les joindre entre elles
 - Préparation des données (nettoyage, clés primaires et clés étrangères)
 - ACP: éboulis des valeurs propres, cercle de corrélations, interprétation des composantes
-- K-Means: méthode du coude, interprétation des groupes
+- K-Means: méthode du coude, score de silhouette, interprétation des groupes
 
 ---
 
