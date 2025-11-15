@@ -8,9 +8,9 @@
 ---
 
 ## 🎯 Objectif du projet
-- Pilotage de projet selon 3 critères par projets et par phases
+- Pilotage de projets, suivi de 3 critères par projets et par phases
   - Livrables
-  - coûts
+  - Coûts
   - Délais
 - Créer un stratégy canevas
 - Créer un mockup
