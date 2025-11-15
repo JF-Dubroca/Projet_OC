@@ -24,6 +24,7 @@
 
 ## ⚙️ Installation / Prérequis
 Installer le fichier requirements.txt fourni dans le dossier Projets OC
+
 bash` pip install -r requirements.txt `
 
 1. Cloner le dépôt :  
