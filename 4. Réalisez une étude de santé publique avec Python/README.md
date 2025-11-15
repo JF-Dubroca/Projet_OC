@@ -17,9 +17,11 @@ Analyse d'un fichier de disponibiité alimentaire par pays
 ---
 
 ## 🧠 Compétences développées
-- Python
-   - Numpy 
-   - Pandes
+- Librairies: Pandas, matplotlib
+- Calculs sur les données (calculs de bases, proportions...)
+- Personnalisation de graphiques
+- Création d'une carte cloroplèthe
+   
 
 ---
 
