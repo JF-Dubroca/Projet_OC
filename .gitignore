@@ -1,1 +1,43 @@
+# --- Fichiers système ---
 .DS_Store
+Thumbs.db
+
+# --- Environnements virtuels ---
+venv/
+env/
+.env/
+.venv/
+conda_env/
+*.conda/
+*.pkl
+
+# --- Cache Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Configuration / IDE ---
+.vscode/
+.idea/
+
+# --- Journaux et sorties ---
+*.log
+
+# --- Packages installés ---
+*.egg-info/
+dist/
+build/
+
+# --- Anaconda ---
+anaconda_projects/
+*.db
+
+# --- Autres fichiers temporaires ---
+*.tmp
+*.bak
+*.swp
+
