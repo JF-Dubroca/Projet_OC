@@ -33,7 +33,7 @@
       bash` source .env/bin/activate `
   - Installer le fichier requirements.txt
 
-      bash` pip install -r requirements.txt 
+      bash` pip install -r requirements.txt `
 
 1. Cloner le dépôt :  
 git clone https://github.com/JF-Dubroca/Projet_OC.git
