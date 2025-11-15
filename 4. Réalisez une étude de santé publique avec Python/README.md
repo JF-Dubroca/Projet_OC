@@ -36,7 +36,7 @@ Analyse d'un fichier de disponibiité alimentaire par pays
       bash` source .env/bin/activate `
   - Installer le fichier requirements.txt
 
-      bash` pip install -r requirements.txt  
+      bash` pip install -r requirements.txt ` 
 
 
 1. Cloner le dépôt :  
