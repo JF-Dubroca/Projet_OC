@@ -7,9 +7,8 @@ Ce dépôt contient tous les projets de la formation OpenClassrooms de data anal
 
 ## 🗂️ 2. Structure du dépôt
 
-Un dépôt global contient les 13 projets, chacun dans un dépôt spécifique. 
-
-Il contient également un dépôt des livrables du projet 13. Ce dépôt contient sa propre documentation
+Un dépôt global contient les 13 projets, chacun dans un dépôt spécifique.   
+Il contient également un dépôt des livrables du projet 13. Ce dépôt contient sa propre documentation.
 
 
 ## 🛠️ 3. Installation et configuration
